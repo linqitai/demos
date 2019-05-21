@@ -1,0 +1,6 @@
+D:\工作\编程\猩猩网络科技\code\demos\demos\bin\Debug\demos.exe.config
+D:\工作\编程\猩猩网络科技\code\demos\demos\bin\Debug\demos.exe
+D:\工作\编程\猩猩网络科技\code\demos\demos\bin\Debug\demos.pdb
+D:\工作\编程\猩猩网络科技\code\demos\demos\obj\Debug\demos.exe
+D:\工作\编程\猩猩网络科技\code\demos\demos\obj\Debug\demos.pdb
+D:\工作\编程\猩猩网络科技\code\demos\demos\obj\Debug\demos.csprojResolveAssemblyReference.cache

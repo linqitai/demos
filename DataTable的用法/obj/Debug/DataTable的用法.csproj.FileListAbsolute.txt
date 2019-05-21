@@ -1,0 +1,11 @@
+D:\工作\编程\猩猩网络科技\code\demos\DataTable的用法\bin\Debug\DataTable的用法.exe.config
+D:\工作\编程\猩猩网络科技\code\demos\DataTable的用法\bin\Debug\DataTable的用法.exe
+D:\工作\编程\猩猩网络科技\code\demos\DataTable的用法\bin\Debug\DataTable的用法.pdb
+D:\工作\编程\猩猩网络科技\code\demos\DataTable的用法\bin\Debug\封装SqlHelper类.exe
+D:\工作\编程\猩猩网络科技\code\demos\DataTable的用法\bin\Debug\封装SqlHelper类.pdb
+D:\工作\编程\猩猩网络科技\code\demos\DataTable的用法\obj\Debug\DataTable的用法.Form1.resources
+D:\工作\编程\猩猩网络科技\code\demos\DataTable的用法\obj\Debug\DataTable的用法.Properties.Resources.resources
+D:\工作\编程\猩猩网络科技\code\demos\DataTable的用法\obj\Debug\DataTable的用法.csproj.GenerateResource.Cache
+D:\工作\编程\猩猩网络科技\code\demos\DataTable的用法\obj\Debug\DataTable的用法.exe
+D:\工作\编程\猩猩网络科技\code\demos\DataTable的用法\obj\Debug\DataTable的用法.pdb
+D:\工作\编程\猩猩网络科技\code\demos\DataTable的用法\obj\Debug\DataTable的用法.csprojResolveAssemblyReference.cache

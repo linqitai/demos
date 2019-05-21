@@ -1,0 +1,9 @@
+D:\工作\编程\猩猩网络科技\code\demos\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\工作\编程\猩猩网络科技\code\demos\WindowsForms\bin\Debug\WindowsForms.exe
+D:\工作\编程\猩猩网络科技\code\demos\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\工作\编程\猩猩网络科技\code\demos\WindowsForms\obj\Debug\ado.net连接池.csprojResolveAssemblyReference.cache
+D:\工作\编程\猩猩网络科技\code\demos\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\工作\编程\猩猩网络科技\code\demos\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\工作\编程\猩猩网络科技\code\demos\WindowsForms\obj\Debug\ado.net连接池.csproj.GenerateResource.Cache
+D:\工作\编程\猩猩网络科技\code\demos\WindowsForms\obj\Debug\WindowsForms.exe
+D:\工作\编程\猩猩网络科技\code\demos\WindowsForms\obj\Debug\WindowsForms.pdb

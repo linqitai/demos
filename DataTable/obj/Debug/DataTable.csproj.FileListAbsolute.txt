@@ -1,0 +1,10 @@
+D:\工作\编程\猩猩网络科技\code\demos\DataTable\bin\Debug\DataTable.exe.config
+D:\工作\编程\猩猩网络科技\code\demos\DataTable\bin\Debug\DataTable.exe
+D:\工作\编程\猩猩网络科技\code\demos\DataTable\bin\Debug\DataTable.pdb
+D:\工作\编程\猩猩网络科技\code\demos\DataTable\bin\Debug\封装SqlHelper类.exe
+D:\工作\编程\猩猩网络科技\code\demos\DataTable\bin\Debug\封装SqlHelper类.pdb
+D:\工作\编程\猩猩网络科技\code\demos\DataTable\obj\Debug\DataTable.csprojResolveAssemblyReference.cache
+D:\工作\编程\猩猩网络科技\code\demos\DataTable\obj\Debug\DataTable.Form1.resources
+D:\工作\编程\猩猩网络科技\code\demos\DataTable\obj\Debug\DataTable.csproj.GenerateResource.Cache
+D:\工作\编程\猩猩网络科技\code\demos\DataTable\obj\Debug\DataTable.exe
+D:\工作\编程\猩猩网络科技\code\demos\DataTable\obj\Debug\DataTable.pdb

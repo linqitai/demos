@@ -1,0 +1,8 @@
+D:\工作\编程\猩猩网络科技\code\demos\封装SqlHelper类\bin\Debug\封装SqlHelper类.exe.config
+D:\工作\编程\猩猩网络科技\code\demos\封装SqlHelper类\obj\Debug\封装SqlHelper类.Form1.resources
+D:\工作\编程\猩猩网络科技\code\demos\封装SqlHelper类\obj\Debug\封装SqlHelper类.Properties.Resources.resources
+D:\工作\编程\猩猩网络科技\code\demos\封装SqlHelper类\obj\Debug\封装SqlHelper类.csproj.GenerateResource.Cache
+D:\工作\编程\猩猩网络科技\code\demos\封装SqlHelper类\bin\Debug\封装SqlHelper类.exe
+D:\工作\编程\猩猩网络科技\code\demos\封装SqlHelper类\bin\Debug\封装SqlHelper类.pdb
+D:\工作\编程\猩猩网络科技\code\demos\封装SqlHelper类\obj\Debug\封装SqlHelper类.exe
+D:\工作\编程\猩猩网络科技\code\demos\封装SqlHelper类\obj\Debug\封装SqlHelper类.pdb
