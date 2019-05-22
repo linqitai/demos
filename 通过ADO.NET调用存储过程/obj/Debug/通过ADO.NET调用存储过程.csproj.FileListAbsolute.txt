@@ -7,3 +7,6 @@ D:\工作\编程\猩猩网络科技\code\demos\通过ADO.NET调用存储过程\b
 D:\工作\编程\猩猩网络科技\code\demos\通过ADO.NET调用存储过程\bin\Debug\通过ADO.NET调用存储过程.pdb
 D:\工作\编程\猩猩网络科技\code\demos\通过ADO.NET调用存储过程\obj\Debug\通过ADO.NET调用存储过程.exe
 D:\工作\编程\猩猩网络科技\code\demos\通过ADO.NET调用存储过程\obj\Debug\通过ADO.NET调用存储过程.pdb
+E:\code\CSharpCode\demos\通过ADO.NET调用存储过程\bin\Debug\通过ADO.NET调用存储过程.exe.config
+E:\code\CSharpCode\demos\通过ADO.NET调用存储过程\obj\Debug\通过ADO.NET调用存储过程.exe
+E:\code\CSharpCode\demos\通过ADO.NET调用存储过程\obj\Debug\通过ADO.NET调用存储过程.pdb
